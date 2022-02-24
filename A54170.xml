@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a gentleman in the country, to his friends in London, upon the subject of the penal laws and tests</title>
+            <title>Letter from a gentleman in the country, to his friends in London, upon the subject of the penal laws and tests. Part 1</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54170</idno>
+            <idno type="STC">Wing P1318D</idno>
+            <idno type="STC">ESTC R218221</idno>
+            <idno type="EEBO-CITATION">99829832</idno>
+            <idno type="PROQUEST">99829832</idno>
+            <idno type="VID">34277</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34277)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2011:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a gentleman in the country, to his friends in London, upon the subject of the penal laws and tests</title>
+                  <title>Letter from a gentleman in the country, to his friends in London, upon the subject of the penal laws and tests. Part 1</title>
+                  <author>Penn, William, 1644-1718.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[[London :</pubPlace>
+                  <date>Printed in the year 1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing to William Penn.</note>
+                  <note>Place of publication from Wing; date of publication from colophon.</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 2011 as Wing P1318D.</note>
+                  <note>Part 2, "A second letter .." and Part 3, "A third letter .." were also published in the same year.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Test Act.; --  1673 --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Religious tolerance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34277:1"/>
+            <pb n="1" facs="tcp:34277:1"/>
+            <head>A LETTER From a Gentleman in the COUNTRY, To his Friends in LONDON, Upon the Subject of the
+<hi>Penal Laws and Teſts.</hi>
+            </head>
+            <epigraph>
+               <q>Quod tibi non vis fieri, alteri non feceris.</q>
+            </epigraph>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Wonder mightily at the News you ſend me, that ſo many of the Town are a<g ref="char:EOLhyphen"/>verſe to the
+<hi>Repeal</hi> of the <hi>Penal Statutes;</hi> ſurely you mean the Clergy of the pre<g ref="char:EOLhyphen"/>ſent Church, and thoſe that are Zealous for their Dignity and Power: For what part of the Kingdom has felt the Smart of them more, and at all times, and on all occaſions repreſented their miſchief to the Trade, Peace, Plenty and Wealth of the Kingdom, ſo freely as the Town has always done? But you unfold the Riddle to me, when you tell me <hi>'tis for fear of Popery,</hi> tho' I own to you, I cannot comprehend it any more than you do Tranſubſtantiation: For that we ſhould be afraid of Popery for the ſake of Liberty, and then afraid of it becauſe of Perſecution, ſeems to me abſurd, as it is, that Liberty ſhould be thought the high way to Perſecution. But becauſe they are upon their fears, pray let me tell you mine, and take them among the reſt in good part.</p>
+            <p>If the <hi>Romaniſts</hi> ſeek eaſe by Law, 'tis an Argument to me they deſire to turn good Countreymen, and take the Law for their Security, with the reſt of their Neighbors; and a greater Complement they cannot put upon our <hi>Engliſh</hi> Conſtitution, nor give
+<pb n="2" facs="tcp:34277:2"/>a better pledge of their deſires to be at Peace with us. But if we are ſo Tenacious as we will keep on foot the greateſt blemiſh of our Reformation, <hi>Viz.</hi> our <hi>Hanging, Quartering, Plunder, Baniſhing Laws;</hi> Is it not turning them out of this quiet Courſe, and telling them if they will have eaſe they muſt get it as they can<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or we will never conceed it? And pray tell me if this be not thruſting them upon the methods we fear they will take at the ſame time that we give that; for the reaſon why we do ſo?</p>
+            <p>If Law can ſecure us, which is the Plea that is made, we may doubtleſs find an expedient in that which may repeal theſe, if the danger be not of Liberty it ſelf, but of our looſing it by them at laſt; for there is no miſchief the wit of Man can invent, that the wit of Man cannot avoid. But that which (I confeſs) makes me melancho<g ref="char:EOLhyphen"/>ly, is, That methinks we never made more haſte to be couſened, no, not in the bu<g ref="char:EOLhyphen"/>ſineſs of the <hi>Declaration of Indulgence,</hi> when in the name of Property that was actually damn'd, which at leaſt reprieved it; and the price of the <hi>Church of England</hi> gave for it, <hi>Viz.</hi> her promiſe of a Legal Eaſe actually failed us: For inſtead of ſaving our ſelves from Popery, we are by theſe partialities provoking it every day, and methinks fooliſhly for our own ſafety; becauſe there can be no other end in doing ſo, than ſe<g ref="char:EOLhyphen"/>curing that Party which calls it ſelf the <hi>Church of England,</hi> that is in her Conſtitution, none of the beſt Friends to Property; for Mens Liberties and Eſtates are by her Laws made forfeitable for Non-conformity to her: And I challenge the Records of all time ſince Popery got the Chair in <hi>England,</hi> to produce an eighth part of the Laws to ruin Men for Conſcience, that have been made ſince the other has been the national Religion, which is (I ſay,) a ſcandal to the Reformation.</p>
+            <p>She ſays, ſhe is afraid of Popery, becauſe of its Violence, and yet uſes Force to compel it; <hi>Is not this reſiſting Popery with Popery?</hi> which we call loving the Trea<g ref="char:EOLhyphen"/>ſon but hating the Traytor: She would have power to Force or Deſtroy others, but they ſhould not have power to Force or Deſtroy her, no not to ſave themſelves: Shift the hand never ſo often this <hi>Weapon</hi> is ſtill the ſame. 'Twere happy therefore that all Parties were diſarm'd of this Sword, and that it were put where it ought only to be in the civil Magiſtrates hand, to terrifie Evil Doers, and cheriſh thoſe that do well, remembring St. <hi>Peter's</hi> ſaying (in <hi>Cornelius</hi>'s caſe) for an Example, <hi>I per<g ref="char:EOLhyphen"/>ceive now of a truth that God is no reſpecter of Perſons, but thoſe that fear him and work Righteouſneſs in all Nations, ſhall be accepted:</hi> Elſe what ſecurity do's the <hi>Church of Eng<g ref="char:EOLhyphen"/>land</hi> give to the great Body of her Diſſenters, that ſhe will not do what ſhe fears from Popery, when ſhe has a Prince of her own Religion upon the Throne, that has made ſo fair a Progreſs theſe laſt Six and twenty Years in ruining Families for Non-conformity, under Princes of another Perſwaſion. Come, Intereſt will not lye, ſhe fears Liberty as much as Popery: Since thoſe that want, and Plead for the one, are an hundred times more in number than the Friends of the other, and all of her ſide, that Popery ſhould not mount the Chair: So that ſhe would get more than ſhe would loſe by the Repeal, if an equal deſire to ſubject both Popiſh and Proteſtant Diſſenters to her Power and Government, be not the Principle ſhe walks by in her preſent Averſion.</p>
+            <p>And to ſhew you that this is the caſe, and that her Averſion to Popery is a ſham to the Liberty deſired, the Diſſenters are of no uſe to her, while the Penal Laws are on foot; for by them they are put in the power of a Prince of the Religion of the Church ſhe fears; but the moment they are Repealed, ſo far as concerns the pre<g ref="char:EOLhyphen"/>venting Popery to be National, the Diſſenters are equally intereſted with the <hi>Church of England</hi> againſt it. But then here is the miſchief, This Liberty takes the Rod out of her hand, ſhe can no more <hi>whip People into her Churches,</hi> and ſhe perhaps
+<pb n="3" facs="tcp:34277:2"/>may modeſtly ſuſpect her own Vertue and Ability to preach them thither.</p>
+            <p>In ſhort, if ſhe were in earneſt againſt Popery, more than in love with her own Power and Grandure; that is, if the World were not in the way, ſhe would re<g ref="char:EOLhyphen"/>joyce to deliver Men of her own Religion, that are ſo much more numerous than the Papiſts, that they migh ballance againſt her fears of their prevailing: But to cry ſhe is for Liberty to Proteſtant Diſſenters, and make the demonſtration of it, her <hi>keeping up the Laws that ruin them,</hi> and then ſay it is for fear of the Religion the Prince owns, and yet force them into his hands by doing ſo, is, I muſt confeſs, ſomething incomprehenſible.</p>
+            <p>Beſides properly and naturally ſpeaking, the Church of <hi>England</hi> is the People of
+<hi>England,</hi> and when it's apply'd to a Party, 'tis a Faction to the whole; and that Title has no more truth in it, then 'tis ſence to ſay the Roman Catholick Church, which in Engliſh is a particular Univerſal Church: And pray is there no room left to conſider this hard caſe of the Kingdom? I hope the Civil Magiſtrate will, who is the Supream Paſtor of this Civil Church on Earth. Is ſhe then no more than a Party? no certainly. And how great a one, a true Liberty of Conſcience would beſt tell us, and that is the true reaſon, and not Popery, that ſhe is tender in the Point.</p>
+            <p>I conclude then, that whilſt thoſe of that Religion only deſire to be upon the Level with others; I mean upon <hi>Native Rights,</hi> the <hi>Great Charter,</hi> what we all of us call our
+<hi>Birth-right,</hi> let us not refuſe it, leſt God ſuffer them to prevail to curb our partiality. There are Laws enough to puniſh Offenders againſt the State, if theſe were repealed, and not condemn people by <hi>Anticipation. That Law which catches a Proteſtant, will catch a Papiſh Traytor, Riotor, or Seditious Perſon.</hi> Again, let us reflect, that we have a Prince of Age, and more Honor; the proſpect of three excellent Princes of the Proteſtant Religion, the paucity of the Papiſts, the num<g ref="char:EOLhyphen"/>ber of the Enemies of their Communion, their unity in that Averſion: What great<g ref="char:EOLhyphen"/>er ſecurity can we have in the World? <hi>Policy, Honor, Religion, Number, <g ref="char:V">Ʋ</g>nity, ay, Neceſſity too,</hi> conſpire to make us ſafe: For all theſe are concerned in the means of our preſervation; unleſs our fears and our follies ſhould prevail, which I confeſs I apprehend moſt: For they will be deſerted of God, that forſake him and themſelves too; <hi>Who dare to a certain evil that a ſuppoſed good may come of it, contradict their own Principles, deny what they expect, ſow what they would not reap, do to others what they would not that others ſhould do to them:</hi> But there is a God in Heaven, and he is juſt: He will meet to us what we meaſure to one another, and his Judgement is inevitable. I therefore adviſe the Church of <hi>England</hi> to be as ready in her Chriſtian complian<g ref="char:EOLhyphen"/>ces as is poſſible. <hi>Firſt,</hi> Becauſe it is impious to keep up deſtroying Laws for Reli<g ref="char:EOLhyphen"/>gion, when her Saviour tells her upon this very Queſtion, <hi>That he came not to deſtroy Mens lives but to ſave them. Secondly,</hi> Becauſe by this ſhe will wipe off the Reproach ſhe throws, by continuing them upon her own Apologies for Liberty of Conſci<g ref="char:EOLhyphen"/>ence, when under the wheel of Power. <hi>Thirdly,</hi> Becauſe Liberty to the Papiſts by Law, is bringing them into the legal intereſt of the Kingdom, and will prevent the force they may elſe be driven too, by being made and left deſperate: For 'tis not to be thought they will willingly pay the reckoning in another Reign, if by any means they can prevent it; and keeping up the Penal Laws can be no ſecurity to t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Church of
+<hi>England</hi> from ſuch attempts, though they may provoke them upon he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Fourthly,</hi> She hereby ſaves her Diſſenters; and if it be really her inclination to do ſo, ſhe has no other way, and this unites them to her in Affection and Intereſt, if not in Worſhip. But if (on the contrary) ſhe perſiſts obſtinately to refuſe this natio<g ref="char:EOLhyphen"/>nal
+<pb n="4" facs="tcp:34277:3"/>paciffick; the Diſſenters I hope, will conſider their honeſt Intereſt, <hi>Conſcience and Property,</hi> and imbrace thoſe opportunities to ſecure them, that God in his all-wiſe Providence is pleaſed to yield them in this conjuncture. Thus Gentlemen, you have my Thoughts upon your News; pray communicate them to our Acquain<g ref="char:EOLhyphen"/>tance, and believe that I am,</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+            <postscript>
+               <head>POST-SCRIPT.</head>
+               <p>FOr the <hi>Teſts</hi> that are ſo much diſcourſed of, I ſhall only ſay, that 'tis another Myſtery of the Times to me, how the Church of <hi>England</hi> that was againſt the
+<hi>Excluſion,</hi> can be for them that were deſign'd for a <hi>Preamble</hi> to it; ſince in ſo doing, ſhe is for that which was contrived to introduce the <hi>Excluſion</hi> ſhe was ſo Zealouſly againſt. I confeſs, I never underſtood her very well, and ſhe grows more and more unintelligible; but this I know, that ſhe muſt either be ſorry for what ſhe has done, or ſhe did not know what ſhe did. The firſt reflects upon her Loyalty, the laſt upon her Underſtanding; and becauſe I think that the leaſt and likelieſt evil, I conclude ſhe is no Infallible Guide upon the Queſtion.</p>
+               <p>Another thing you tell me that gives great offence, is, His Majeſties turning out Proteſtants, and putting in People of his Religon. This I conceive a fault that the Church of
+<hi>England</hi> is only anſwerable for. Other Princes have been ſo unhap<g ref="char:EOLhyphen"/>py as to ſuffer
+<hi>Teſts</hi> and <hi>Marks</hi> of diſtinction that have broken and diſordered their Kingdoms, by depriving thoſe of their Temporal comforts that would not re<g ref="char:EOLhyphen"/>ceive them; and this People eſteemed a mighty Grievance; and were frequent and elegant in their Complaints about it. We have a King now that would remove theſe <hi>Marks</hi> of diſtinction, and ſecure all Men upon their native Right and Bot<g ref="char:EOLhyphen"/>tom, that all Parties might ſit ſafely under their own Vine, and under their own Fig-tree; ſo that now, <hi>who is for Liberty?</hi> becomes the
+<hi>Teſt.</hi> Are they then fit to be truſted that are out of his Intereſt, and againſt the Liberty he is for, and the Na<g ref="char:EOLhyphen"/>tion wants and craves? Or is it good ſenſe, that he (who is mortal as well as other Men) ſhould leave the Power in thoſe hands, that to his Face ſhow their averſion to the Friends of his Communion tho' he offers to maintain her ſtill? She had the of<g ref="char:EOLhyphen"/>fer to keep them, upon that Principle that muſt heal and ſave the Kingdom, <hi>Liber<g ref="char:EOLhyphen"/>ty of Conſcience;</hi> which ſhows the King was willing to be ſerved by her Sons to chuſe, if upon the ſame general Principle with himſelf: Wherefore 'tis the Gentle<g ref="char:EOLhyphen"/>men of the Church of
+<hi>England</hi> that turn themſelves out of Power, rather than en<g ref="char:EOLhyphen"/>dure Liberty of Conſcience to others; and ſhall this Vice be their Vertue. They muſt be heartily in love with Perſecution that can Sacrifie their places to the uphold<g ref="char:EOLhyphen"/>ing of Penal Laws for Religion, becauſe they would not let others, not only, not come in, but not live at their own Charges: A fine thing to ſuffer for. Their An<g ref="char:EOLhyphen"/>ceſtors were Martyrs by Penal Laws, but theſe for them. The cauſe is chang'd whatever they think, and I am afraid they are chang'd too for want of thinking. I profeſs I pity them with all my Heart, and wiſh them more wit, and better Con<g ref="char:EOLhyphen"/>ſciences againſt next time, if ever they have it; for theſe (if they will believe me) will hardly ever make ſo good a Bargain for them, as they have loſt by them. More of this, if you like it, next time, and till then Adieu.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1687.</p>
+            <pb facs="tcp:34277:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
